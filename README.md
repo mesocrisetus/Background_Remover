@@ -1,12 +1,24 @@
-PICTURES BACKGROUND REMOVER
+# Background Remover
 
-INSTRUCTIONS:
+Backgound remover is a simple python program to remove the images background
 
--Run requirements.txt file using pip.
--Insert the images on the Input folder    
--Run the app.py
--Click on "Remover Fondo" button.
--The new images will be stored on "Ouput" folder.
+## Installation
 
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
 
-Python 3.11.8
+```bash
+pip -r install requirements.txt
+```
+
+## Usage
+
+```bash
+python app.py
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
